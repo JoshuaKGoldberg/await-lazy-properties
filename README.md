@@ -36,6 +36,14 @@ await allPropertiesLazy({
 	},
 	promise: Promise.resolve("promise"),
 });
+
+// Result:
+// {
+//   immediate: "immediate",
+//   lazy: "lazy",
+//   lazyAsync: "lazy async",
+//   promise: "promise"
+// }
 ```
 
 Retrieves all properties of an object, factoring in lazy properties.
