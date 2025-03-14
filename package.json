@@ -1,6 +1,6 @@
 {
 	"name": "all-properties-lazy",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
 	"repository": {
 		"type": "git",
