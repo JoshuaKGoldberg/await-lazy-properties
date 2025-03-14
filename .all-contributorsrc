@@ -19,7 +19,7 @@
 		}
 	],
 	"contributorsSortAlphabetically": true,
-	"projectName": "await-lazy-properties",
+	"projectName": "all-properties-lazy",
 	"projectOwner": "JoshuaKGoldberg",
 	"repoType": "github",
 	"commitConvention": "angular"

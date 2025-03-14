@@ -15,7 +15,7 @@
 		"apexskier",
 		"automerge",
 		"Await",
-		"await-lazy-properties",
+		"all-properties-lazy",
 		"dependencies",
 		"description",
 		"devDependencies",

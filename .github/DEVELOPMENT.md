@@ -3,8 +3,8 @@
 After [forking the repo from GitHub](https://help.github.com/articles/fork-a-repo) and [installing pnpm](https://pnpm.io/installation):
 
 ```shell
-git clone https://github.com/(your-name-here)/await-lazy-properties
-cd await-lazy-properties
+git clone https://github.com/(your-name-here)/all-properties-lazy
+cd all-properties-lazy
 pnpm install
 ```
 

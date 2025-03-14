@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      without-undefined-properties:
+        specifier: ^0.1.1
+        version: 0.1.1
     devDependencies:
       '@eslint-community/eslint-plugin-eslint-comments':
         specifier: 4.4.1
@@ -3437,6 +3441,10 @@ packages:
   windows-release@6.0.1:
     resolution: {integrity: sha512-MS3BzG8QK33dAyqwxfYJCJ03arkwKaddUOvvnnlFdXLudflsQF6I8yAxrLBeQk4yO8wjdH/+ax0YzxJEDrOftg==}
     engines: {node: '>=18'}
+
+  without-undefined-properties@0.1.1:
+    resolution: {integrity: sha512-0RyzRGsPo7+yauqscwFQq/s+nW5Q5FydnLlIUZuipZafd1nP9WEw8rcAszOCDljnZkgUtaWO7HmtpqOCU/yRdw==}
+    engines: {node: '>=18.3.0'}
 
   word-wrap@1.2.5:
     resolution: {integrity: sha512-BN22B5eaMMI9UMtjrGd5g5eCYPpCPDUy0FJXbYsaT5zYxjFOckS53SQDE3pWkVoWpHXVb3BrYcEN4Twa55B5cA==}
@@ -7004,6 +7012,8 @@ snapshots:
   windows-release@6.0.1:
     dependencies:
       execa: 8.0.1
+
+  without-undefined-properties@0.1.1: {}
 
   word-wrap@1.2.5: {}
 

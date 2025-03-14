@@ -61,7 +61,7 @@ export default tseslint.config(
 		rules: {
 			"n/no-missing-import": [
 				"error",
-				{ allowModules: ["await-lazy-properties"] },
+				{ allowModules: ["all-properties-lazy"] },
 			],
 		},
 	},
