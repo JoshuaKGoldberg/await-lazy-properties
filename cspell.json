@@ -1,0 +1,37 @@
+{
+	"dictionaries": ["npm", "node", "typescript"],
+	"ignorePaths": [
+		".all-contributorsrc",
+		".github",
+		"CHANGELOG.md",
+		"coverage",
+		"lib",
+		"node_modules",
+		"pnpm-lock.yaml"
+	],
+	"words": [
+		"10.4.0",
+		"access",
+		"apexskier",
+		"automerge",
+		"Await",
+		"await-lazy-properties",
+		"dependencies",
+		"description",
+		"devDependencies",
+		"directory",
+		"Evalutes",
+		"everything",
+		"joshuakgoldberg",
+		"markdownlintignore",
+		"packageData",
+		"pnpm",
+		"preset",
+		"public",
+		"repository",
+		"scripts",
+		"title",
+		"tseslint",
+		"usage"
+	]
+}
